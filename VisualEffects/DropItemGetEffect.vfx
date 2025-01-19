@@ -16,10 +16,10 @@ MonoBehaviour:
   - title: Burst
     position:
       serializedVersion: 2
-      x: 240
-      y: 97
-      width: 499
-      height: 2656
+      x: 239
+      y: 96
+      width: 500
+      height: 2657
     contents:
     - model: {fileID: 8926484042661614700}
       id: 0
@@ -40,10 +40,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 240
-    y: 97
-    width: 499
-    height: 2656
+    x: 239
+    y: 96
+    width: 500
+    height: 2657
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2403,7 +2403,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 265, y: 156}
+  m_UIPosition: {x: 264, y: 155}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
